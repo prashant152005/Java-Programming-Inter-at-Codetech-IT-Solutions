@@ -43,3 +43,8 @@ If `Alice` and `Bob` have overlapping ratings and Bob rated an item that Alice h
 
 - `RecommendationSystem.java` – Main Java program.
 - `sample_data.csv` – Example dataset (place in the correct path as required).
+
+## 👨‍💻 Author
+
+**Prashant Kumar Pathak**
+
