@@ -125,10 +125,9 @@ java -jar ChatClient.jar
 
 **Prashant Kumar Pathak**
 
-> Feel free to fork, clone, and improve this project! Contributions are welcome.
-
 ---
 
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+
