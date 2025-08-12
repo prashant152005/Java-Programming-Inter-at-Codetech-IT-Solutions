@@ -1,6 +1,7 @@
 /*
 README: FileHandlingUtility.java
 ---------------------------------
+Author : Prashant Kumar Pathak
 
 This Java program demonstrates basic file handling operations:
 creating a file, writing to it, appending content, and reading the file.
@@ -87,3 +88,4 @@ public class FileHandlingUtility {
         }
     }
 }
+
