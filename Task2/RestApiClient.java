@@ -2,6 +2,7 @@
 ================================================================================
  README: Java REST API Client (Random User + Weather API)
 ================================================================================
+Author : Prashant Kumar Pathak 
 
 📦 PURPOSE:
 This Java program fetches:
@@ -156,3 +157,4 @@ public class RestApiClient {
         }
     }
 }
+
